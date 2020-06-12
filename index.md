@@ -47,17 +47,17 @@ This is the whole Penal Code for Law Enforcement
 
 ### 10 Codes
 
-10-1 = Frequency Change
-10-3 = Stop Transmitting
-10-4 = Affirmative
-10-5 = Meal Break
-10-6 = Busy
-10-7 = Out of Service
-10-8 = In service
-10-9 = Repeat Transmission
-10-10 = Fight in Progress
-10-11 = Traffic Stop
-10-12 = Ride Along
+10-1 = Frequency Change\
+10-3 = Stop Transmitting\
+10-4 = Affirmative\
+10-5 = Meal Break\
+10-6 = Busy\
+10-7 = Out of Service\
+10-8 = In service\
+10-9 = Repeat Transmission\
+10-10 = Fight in Progress\
+10-11 = Traffic Stop\
+10-12 = Ride Along\
 10-13 = Shots Fired
 10-16 = Stolen Vehicle
 10-17 = Suspicious Person
