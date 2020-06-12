@@ -39,6 +39,13 @@ Covers patrol techniques and procedures, crimes in progress, building searches, 
 
 Includes Advanced Tactical Training, Mobile Field Force Tactics, Patrol Ride-Along, Mobile Digital Computer (in-car computer) Training, Alcohol Abuse, Administration of Discipline, Cultural Diversity, K-9 Operations, Air Support Operations, Bomb Squad, Community Policing and Problem Solving, Spanish Language, Civil Liabilities, and Sexual Harassment Training.
 
+
+### Penal Code
+
+[Penal Code](https://docs.google.com/document/d/1BK86Jt10evH4I1SvSC5CjGuDGB3fenWB1XwsznqnS5Q/edit#)
+This is the whole Penal Code for Law Enforcement
+
+ 
 ```markdown
 Syntax highlighted code block
 
