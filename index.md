@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Law Enforcement / LSPD Training Manual
 
-You can use the [editor on GitHub](https://github.com/SAP2/I/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome To LSPD Training Procedures
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A website that contains everything that you will need to know to be a Law Enforcement Officer.
 
 ### Markdown
 
